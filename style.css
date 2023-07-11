@@ -1,0 +1,420 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+.top{
+    width: 100%;
+    height: 50px;
+    padding-left: 950px;
+    display: flex;
+    gap: 40px;
+    padding-top: 13px;
+    font-weight: 100;
+    background: whitesmoke;
+
+}
+.top h4{
+    font-weight: 100;
+    font-size: 19px;
+}
+.navbar{
+    width: 100%;
+    height: 70px;
+    background: white;
+    display: flex;
+    padding-left: 80px;
+    gap: 20px;
+
+
+}
+.navbar ul{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 18px;
+    list-style: none;
+    color: dodgerblue;
+
+}
+.ww{
+    width: 100px;
+    height: 60px;
+    margin-right: 20px;
+    margin-top: 10px;
+    
+}
+.banner{
+    width: 100%;
+    height: 200px;
+    background: url(https://www.nokia.com/sites/default/files/styles/m2_intro_tablet/public/2022-02/OI_Reflection_02_LR_RGB.jpg.webp)no-repeat center/cover;
+}
+.banner p{
+    font-size: 50px;
+    padding-left: 30px;
+    padding-top: 70px;
+    color: #ddd;
+    font-weight: 100;
+}
+.banner2{
+    width: 100%;
+    height: 500px;
+   
+    text-align: center;
+    margin-top: 20px;
+    color: #ddd;
+}
+.ee{
+    color: black;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-right: 30px;
+}
+.www{
+    color: black;
+    font-size: 30px;
+    margin-top: 150px;
+    margin-right: 20px;
+    padding-right: 250px;
+}
+.cart{
+    width: 100%;
+    height: 200vh;
+  
+    display: grid;
+     grid-gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+}
+.card{
+    height: 350px;
+
+    
+}
+.tt1{
+    width: 100%;
+    height: 150px;
+    background: url(https://www.nokia.com/sites/default/files/styles/c23_desktop_grid/public/2023-04/bss-oss_small.jpg.webp)no-repeat center/cover;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.pp{
+    font-size: 20px;
+    padding-left: 10px;
+    color: black;
+}
+.tt2{
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: url(https://www.nokia.com/sites/default/files/styles/c23_desktop_grid/public/2022-02/Nokia%20Core%20Networks_0.jpg.webp)no-repeat center/cover;
+}
+.oo{
+    font-size: 20px;
+    padding-left: 10px;
+    color: black;
+}
+.tt3{
+     width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: url(https://www.nokia.com/sites/default/files/styles/c23_desktop_grid/public/2021-12/service-header.jpg.webp)no-repeat center/cover;
+}
+.ii{
+    margin-top: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+    color: black;
+}
+.tt4{
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: url(https://www.nokia.com/sites/default/files/styles/c23_desktop_grid/public/2021-12/ResrcID28345_GettyImages-1067263546-hgh.jpg.webp)no-repeat center/cover;
+}
+.kk{
+    margin-top: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+    color: black;
+}
+.aa{
+    margin-top: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+    color: black;
+}
+.tt5{
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: url(https://www.nokia.com/sites/default/files/styles/c23_desktop_grid/public/2022-01/ResrcID953_GettyImages-556419437-ppt.jpg.webp) no-repeat center/cover;
+}
+.lp{
+    margin-top: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+    color: black;
+}
+.tt6{
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: url(https://www.nokia.com/sites/default/files/styles/c23_desktop_grid/public/2021-12/ResrcID29234_GettyImages-560260725-hgh.jpg.webp) no-repeat center/cover;
+}
+.gg{
+    margin-top: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+    color: black;
+}
+.tt7{
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: url(https://www.nokia.com/sites/default/files/styles/c23_desktop_grid/public/2022-09/mobile-networks-wayfinder_small_0.jpg.webp)no-repeat center/cover;
+}
+.too{
+    margin-top: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+    color: black;
+}
+.tt8{
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: url(https://www.nokia.com/sites/default/files/styles/c23_desktop_grid/public/2022-02/Optical%20navigator%20header%201920x500_v2.jpg.webp)no-repeat center/cover;
+}
+.ff{
+    margin-top: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+    color: black;
+}
+.tt9{
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: url(https://www.nokia.com/sites/default/files/styles/c23_desktop_grid/public/2022-03/port-singapore-flipped.jpg.webp)no-repeat center/cover;
+}
+.po{
+    margin-top: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+    color: black;
+}
+.tt10{
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: url(https://www.nokia.com/sites/default/files/styles/c23_desktop_grid/public/2022-01/cybersecurity4.jpg.webp)no-repeat center/cover;
+}
+.er{
+    margin-top: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+    color: black;
+}
+.tt11{
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: url(https://www.nokia.com/sites/default/files/styles/c23_desktop_grid/public/2021-12/OI_Industry_03_LR_RGB.jpg.webp)no-repeat center/cover;
+}
+.footer{
+    width: 100%;
+    height: 150vh;
+    background: whitesmoke;
+}
+.dds{
+    width: 90%;
+    margin: auto;
+    height: 140px;
+    border-bottom:2px solid gray;
+    background: whitesmoke;
+}
+.footer svg{
+    width: 110px;
+    height: 110px;
+    margin-left: 30px;
+}
+.fer{
+    margin-left: 5%;
+    color: black;
+    margin-top: 25px;
+    font-weight: 400;
+    font-size: 20px;
+}
+.wer{
+    margin-left: 5%;
+    color: black;
+    margin-top: 20px;
+    font-weight: 800;
+}
+.rew{
+    margin-left: 5%;
+    color: black;
+    margin-top: 20px;
+}
+.erq{
+    margin-left: 5%;
+    color: black;
+    margin-top: 10px;
+}
+.chap{
+    margin-left: 600px;
+    padding-top: 20px;
+}
+.footer2{
+    width: 90%;
+    margin: auto;
+    border-bottom: solid 2px gray;
+    height: 300px;
+    
+}
+.ahref{
+    width: 90%;
+    height: 150px;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    padding-left: 5%;
+    border-bottom: 2px solid gray;
+   margin: auto;
+}
+.lola{
+    color: dodgerblue;
+    font-size: 20px;
+}
+.diyor{
+    width: 90%;
+    height: 200px;
+    border-bottom: 2px solid gray;
+    margin: auto;
+    padding-top: 50px;
+   
+}
+.btn{
+    
+    padding: 10px;
+    width: 250px;
+    color: dodgerblue;
+    border: solid 1px dodgerblue;
+    border-radius: 6px;
+    font-size: 15px;
+    display: block;
+    font-weight: 700;
+}
+.sd{
+    color: black;
+    padding-left: 10px;
+    padding-top: 30px;
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+}
+.oil{
+    padding-top: 20px;
+    padding-left: 5%;
+    display: flex;
+    gap: 30px;
+}
+.ppoli{
+    padding-top: 20px;
+    padding-left: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1220px) {
+    .footer{
+        display: none;
+        opacity: 0;
+        
+    }
+    .footer2{
+        display: none;
+        opacity: 0;
+
+    }
+   .ppoli{
+    display: none;
+    opacity: 0;
+
+   }
+    .oil{
+        opacity: 0;
+        display: none;
+    }
+    .www{
+      display: none;
+      opacity: 0;
+    }
+}
+
+
+
+
+@media screen and (max-width:1200px  ) {
+    .top{
+        width: 80%;
+        display: none;
+    }
+    .cart{
+      grid-template-columns:  repeat(2, 1fr);
+        padding: 30px 10%;
+    }
+    
+}
+@media screen and (max-width:990px) {
+    .navbar ul{
+        display: none;
+    }
+    .sd{
+        display: block;
+    }
+    
+}
+
+@media screen and (max-width:500px) {
+    .top{
+        width: 90%;
+       
+    }
+    .cart{
+      grid-template-columns:  1fr;
+        padding: 30px 10%;
+    }
+    .footer{
+    display: none;
+
+    }
+}
+
+
+
+
+
+
+
